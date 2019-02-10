@@ -1,6 +1,8 @@
 # Camera-Projection-and-Triangulation
 Project 2 of CMPEN454 Computer Vision
 
+The goal of this project is to implement forward (3D point to 2D point) and inverse (2D point to 3D ray) camera projection, and to perform triangulation from two cameras to do 3D reconstruction from pairs of matching 2D image points.
+
 Input:
 
   Camera calibration parameters (Intrinsic and extrinsic) for two video cameras:
